@@ -7,4 +7,4 @@ He desempeñado diferentes roles en diferentes equipos de trabajo
 * 🛠️ Desarrollador Backend en .Net Core  
 * ☁️ DevOps con Docker / Azure 
 
-![imagen](imagencopilot.jpeg)
+<image src="imagencopilot.jpeg" height="250" width="250" alt="imagen">
